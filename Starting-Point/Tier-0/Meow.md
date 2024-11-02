@@ -22,6 +22,8 @@
 * [Task 4](#task-4)
 * [Task 5](#task-5)
 * [Task 6](#task-6)
+* [Task 7](#task-7)
+* [Flag](#flag)
 
 
 </details>
@@ -85,7 +87,10 @@ Answer:
 root
 ```
 
-## Task 8
+## Flag
 Submit root flag
 
-Answer: Flag
+Answer: 
+Flag[^1]
+
+[^1]: Esto es un conjunto de numeros a los que se llama bandera, simplemente certifica que has sido capaz de leerlo, puede estar en un archivo de texto por ejemplo.
