@@ -18,3 +18,23 @@
   * [Task 1](#task-1)
   
 </details>
+
+---
+
+## Task 1
+What does the 3-letter acronym FTP stand for?
+
+Answer:
+```
+File Transfer Protocol
+```
+
+## Task 2
+Which port does the FTP service listen on usually?
+
+Answer:
+```
+21
+```
+
+
